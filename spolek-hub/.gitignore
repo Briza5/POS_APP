@@ -1,0 +1,16 @@
+.env
+*.db
+*.duckdb
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+*.log
+/tmp/
+credentials.json
+service_account.json
